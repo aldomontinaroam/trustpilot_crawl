@@ -1,6 +1,6 @@
 # Trustpilot Data
 
-This project consists of R scripts for scraping data from Trustpilot, particularly focusing on reviews and information related to travel and vacation agencies. It utilizes web scraping techniques with the `rvest` package, data manipulation with `dplyr`, and PostgreSQL for storing the extracted data. This work was chosen as an individual project for the Strategic and Competitive Intelligence exam of the Master of Science in Data Science and Business Informatics degree program at the University of Pisa.
+This project consists of R scripts for scraping data from Trustpilot, particularly focusing on reviews and information related to travel and vacation agencies (italian website). It utilizes web scraping techniques with the `rvest` package, data manipulation with `dplyr`, and PostgreSQL for storing the extracted data. This work was chosen as an individual project for the Strategic and Competitive Intelligence exam of the Master of Science in Data Science and Business Informatics degree program at the University of Pisa.
 
 ## Prerequisites
 - RStudio installed on your machine
